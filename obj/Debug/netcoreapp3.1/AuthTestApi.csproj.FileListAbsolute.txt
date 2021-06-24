@@ -1,0 +1,130 @@
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\AuthTestApi.exe
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\AuthTestApi.deps.json
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\AuthTestApi.runtimeconfig.json
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\AuthTestApi.runtimeconfig.dev.json
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\AuthTestApi.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\AuthTestApi.pdb
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.csprojAssemblyReference.cache
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.AssemblyInfoInputs.cache
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.AssemblyInfo.cs
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.csproj.CoreCompileInputs.cache
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\staticwebassets\AuthTestApi.StaticWebAssets.Manifest.cache
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\staticwebassets\AuthTestApi.StaticWebAssets.xml
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthTestApi.styles.css
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.RazorTargetAssemblyInfo.cache
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.csproj.CopyComplete
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.dll
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.pdb
+C:\Dot Net Projects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.genruntimeconfig.cache
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\appsettings.json
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\AuthTestApi.exe
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\AuthTestApi.deps.json
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\AuthTestApi.runtimeconfig.json
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\AuthTestApi.runtimeconfig.dev.json
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\AuthTestApi.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\AuthTestApi.pdb
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.AssemblyInfoInputs.cache
+G:\TestProjects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.AssemblyInfo.cs
+G:\TestProjects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.csproj.CoreCompileInputs.cache
+G:\TestProjects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.MvcApplicationPartsAssemblyInfo.cache
+G:\TestProjects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\staticwebassets\AuthTestApi.StaticWebAssets.Manifest.cache
+G:\TestProjects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\staticwebassets\AuthTestApi.StaticWebAssets.xml
+G:\TestProjects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthTestApi.styles.css
+G:\TestProjects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.RazorTargetAssemblyInfo.cache
+G:\TestProjects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.csproj.CopyComplete
+G:\TestProjects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.dll
+G:\TestProjects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.pdb
+G:\TestProjects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.genruntimeconfig.cache
+G:\TestProjects\AuthTestApi\AuthTestApi\obj\Debug\netcoreapp3.1\AuthTestApi.csprojAssemblyReference.cache
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\package-lock.json
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\package.json
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\react-auth\package-lock.json
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\react-auth\package.json
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\react-auth\public\manifest.json
+G:\TestProjects\AuthTestApi\AuthTestApi\bin\Debug\netcoreapp3.1\react-auth\tsconfig.json

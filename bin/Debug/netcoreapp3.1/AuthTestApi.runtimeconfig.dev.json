@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\oliur-gtr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\oliur-gtr\\.nuget\\packages"
+    ]
+  }
+}
